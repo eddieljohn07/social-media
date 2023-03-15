@@ -12,6 +12,7 @@ User 1 Photo by Tanner Vote: https://www.pexels.com/photo/man-wearing-white-and-
 User 2 Photo by Ike  louie  Natividad: https://www.pexels.com/photo/photo-of-woman-holding-her-hair-3229332/
 User 3 Photo by Oliver Sjöström: https://www.pexels.com/photo/man-wearing-blue-gray-and-black-crew-neck-shirt-1103832/
 User 4 Photo by Jonaorle: https://www.pexels.com/photo/millennial-model-with-blue-eyes-and-shade-on-face-7958765/
+Trending User Photo by Yan Krukau: https://www.pexels.com/photo/a-man-playing-a-video-game-in-a-computer-9071735/
 Trending Photo by Alex Knight: https://www.pexels.com/photo/people-near-buildings-during-nighttime-with-lights-2816903/
 Post 1 Photo by Mike B: https://www.pexels.com/photo/focus-photo-of-brown-animal-plush-toy-in-green-jacket-and-eyeglasses-171183/
 Post 2 Photo by Teresa Howes: https://www.pexels.com/photo/brown-bear-plush-toy-on-bed-860882/
