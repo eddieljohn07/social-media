@@ -19,3 +19,4 @@ Post 2 Photo by Teresa Howes: https://www.pexels.com/photo/brown-bear-plush-toy-
 GC 1 Photo by Min An: https://www.pexels.com/photo/group-of-six-people-jumping-in-a-crop-field-1624565/
 GC 2 Photo by Helena Lopes: https://www.pexels.com/photo/four-person-standing-at-top-of-grassy-mountain-697244/
 GC 3 Photo by Magda Ehlers: https://www.pexels.com/photo/selective-focus-photo-of-flock-of-ducklings-perching-on-gray-concrete-pavement-1300355/
+GC 4 Photo by Alena Darmel: https://www.pexels.com/photo/group-of-men-playing-computer-game-7862655/
