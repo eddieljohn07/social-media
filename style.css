@@ -13,6 +13,11 @@ body {
     align-items: center;
 }
 
+#header .left-header #logo {
+    font-size: 25px;
+    font-weight: bold;
+}
+
 #header .left-header {
     display: flex;
     flex-direction: row;
