@@ -22,3 +22,11 @@ body {
     display: flex;
     flex-direction: row;
 }
+
+#header .left-header #search-bar{
+    display: flex;
+}
+
+#header .left-header #search-bar #search {
+    border: none;
+}
