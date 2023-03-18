@@ -12,3 +12,8 @@ body {
     flex-direction: row;
     align-items: center;
 }
+
+#header .left-header {
+    display: flex;
+    flex-direction: row;
+}
