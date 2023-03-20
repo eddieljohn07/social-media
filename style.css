@@ -35,3 +35,8 @@ body {
     display: flex;
     flex-direction: row;
 }
+
+.right-header {
+    display: flex;
+    flex-direction: row;
+}
