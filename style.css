@@ -64,3 +64,7 @@ body {
     display: flex;
     flex-direction: column;
 }
+
+.left-body .left-group .first-left div {
+    display: flex;
+}
