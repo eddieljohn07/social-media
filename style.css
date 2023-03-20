@@ -51,4 +51,9 @@ body {
 
 #main-body {
     display: flex;
+    flex-direction: row;
+}
+
+.left-body {
+    display: flex;
 }
