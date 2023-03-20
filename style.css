@@ -30,3 +30,8 @@ body {
 #header .left-header #search-bar #search {
     border: none;
 }
+
+.mid-header {
+    display: flex;
+    flex-direction: row;
+}
