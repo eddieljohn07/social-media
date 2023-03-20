@@ -82,3 +82,13 @@ body {
     display: flex;
     flex-direction: column;
 }
+
+.left-body .left-group .third-left #advert {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.left-body .left-group .third-left #advert img {
+    
+}
