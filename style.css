@@ -68,3 +68,8 @@ body {
 .left-body .left-group .first-left div {
     display: flex;
 }
+
+.left-body .left-group .second-left {
+    display: flex;
+    flex-direction: column;
+}
