@@ -40,3 +40,15 @@ body {
     display: flex;
     flex-direction: row;
 }
+
+.right-header #left-dp {
+    transform: scale();
+    width: 40px;
+    height: 40px;
+    overflow: hidden;
+    border-radius: 50%;
+}
+
+#main-body {
+    display: flex;
+}
