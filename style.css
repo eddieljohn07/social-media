@@ -77,3 +77,8 @@ body {
 .left-body .left-group .second-left div {
     display: flex;
 }
+
+.left-body .left-group .third-left {
+    display: flex;
+    flex-direction: column;
+}
