@@ -57,4 +57,10 @@ body {
 
 .left-body {
     display: flex;
+    justify-content: space-between;
+}
+
+.left-body .left-group .first-left {
+    display: flex;
+    flex-direction: column;
 }
