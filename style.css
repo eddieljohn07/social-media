@@ -81,6 +81,8 @@ body {
 .left-body .left-group .third-left {
     display: flex;
     flex-direction: column;
+    align-items: start;
+
 }
 
 .left-body .left-group .third-left #advert {
@@ -90,5 +92,5 @@ body {
 }
 
 .left-body .left-group .third-left #advert img {
-    
+    transform: scale(.045);
 }
