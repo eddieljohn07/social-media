@@ -2,6 +2,7 @@
 -Social Media Project
 -This is a sample project and is not intended for commercial use.
 -This project is only made with html and css
+-So far this is only catered for desktop web, and not in mobile
 
 Images used:
 Capybara Photo by Rutpratheep Nilpechr: https://www.pexels.com/photo/close-up-of-a-capybara-6596764/
