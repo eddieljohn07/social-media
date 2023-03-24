@@ -127,8 +127,9 @@ body {
     margin-left: 324px;
 }
 
-.rightgit-body {
+.right-body {
     width: 432px;
     display: flex;
     flex-direction: row;
 }
+
