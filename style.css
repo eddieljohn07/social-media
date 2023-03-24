@@ -73,7 +73,8 @@ body {
     flex-direction: column;
     justify-content: space-between;
     background-color: white;
-    
+    border: 1px solid #ccc;
+    box-shadow: 2px 2px 5px #999;
 }
 
 .left-body .left-group .first-left {
