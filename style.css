@@ -57,6 +57,10 @@ body {
 }
 
 .left-body {
+    position: fixed;
+    top: 68px;
+    bottom: 0;
+    overflow-y: auto;
     width: 324px;
     display: flex;
     flex-direction: column;
@@ -97,6 +101,7 @@ body {
 
 .left-body .left-group .third-left #advert img {
     width: 200px;
+    padding-right: 5px;
 }
 
 .center-body {
@@ -105,7 +110,7 @@ body {
     flex-direction: row;
 }
 
-.right-body {
+.rightgit-body {
     width: 432px;
     display: flex;
     flex-direction: row;
