@@ -20,7 +20,7 @@ body {
     justify-content: space-between;
     padding-top: 15px;
     background-color: white;
-    border: 1px solid #ccc;
+    border: 1px solid #f0f0f0;
     box-shadow: 2px 2px 5px #999;
 }
 
@@ -75,6 +75,7 @@ body {
     background-color: white;
     border: 1px solid #ccc;
     box-shadow: 2px 2px 5px #999;
+    margin-top: 10px;
 }
 
 .left-body .left-group .first-left {
