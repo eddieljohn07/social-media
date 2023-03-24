@@ -12,6 +12,9 @@ body {
     flex-direction: row;
     align-items: center;
     justify-content: space-between;
+    padding-top: 15px;
+    padding-left: 10px;
+    padding-right: 10px;
 }
 
 #header .left-header #logo {
@@ -42,11 +45,8 @@ body {
     flex-direction: row;
 }
 
-.right-header #left-dp {
-    transform: scale();
+.right-header #left-dp img{
     width: 40px;
-    height: 40px;
-    overflow: hidden;
     border-radius: 50%;
 }
 
