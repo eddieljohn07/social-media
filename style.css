@@ -53,6 +53,7 @@ body {
 #main-body {
     display: flex;
     flex-direction: row;
+    background-color: whitesmoke;
 }
 
 .left-body {
@@ -63,6 +64,7 @@ body {
 .left-body .left-group .first-left {
     display: flex;
     flex-direction: column;
+    background-color: white;
 }
 
 .left-body .left-group .first-left div {
@@ -92,5 +94,5 @@ body {
 }
 
 .left-body .left-group .third-left #advert img {
-    transform: scale(.045);
+    width: 200px;
 }
