@@ -13,7 +13,6 @@ body {
     position: fixed;
     width: 100%;
     top: 0;
-    left:0 ;
     overflow-y: auto;
     display: flex;
     flex-direction: row;
@@ -21,6 +20,8 @@ body {
     justify-content: space-between;
     padding-top: 15px;
     background-color: white;
+    border: 1px solid #ccc;
+    box-shadow: 2px 2px 5px #999;
 }
 
 #header .left-header #logo {
@@ -72,6 +73,7 @@ body {
     flex-direction: column;
     justify-content: space-between;
     background-color: white;
+    
 }
 
 .left-body .left-group .first-left {
