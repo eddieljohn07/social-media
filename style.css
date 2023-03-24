@@ -122,6 +122,7 @@ body {
 
 .center-body {
     width: 432px;
+    margin-top: 68px;
     display: flex;
     flex-direction: row;
     margin-left: 324px;
