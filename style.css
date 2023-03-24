@@ -73,14 +73,14 @@ body {
     flex-direction: column;
     justify-content: space-between;
     background-color: white;
-    border: 1px solid #ccc;
-    box-shadow: 2px 2px 5px #999;
     margin-top: 10px;
 }
 
 .left-body .left-group .first-left {
     display: flex;
     flex-direction: column;
+    border: 1px solid #ccc;
+    box-shadow: 2px 2px 5px #999;
 }
 
 .left-body .left-group .first-left div {
@@ -90,6 +90,9 @@ body {
 .left-body .left-group .second-left {
     display: flex;
     flex-direction: column;
+    margin-top: 10px;
+    border: 1px solid #ccc;
+    box-shadow: 2px 2px 5px #999;
 }
 
 .left-body .left-group .second-left div {
@@ -100,6 +103,10 @@ body {
     display: flex;
     flex-direction: column;
     align-items: start;
+    margin-top: 10px;
+    border: 1px solid #ccc;
+    box-shadow: 2px 2px 5px #999;
+    border-bottom: none;
 
 }
 
