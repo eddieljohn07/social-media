@@ -57,7 +57,9 @@ body {
 }
 
 .left-body {
+    width: 324px;
     display: flex;
+    flex-direction: column;
     justify-content: space-between;
     background-color: white;
 }
@@ -95,4 +97,16 @@ body {
 
 .left-body .left-group .third-left #advert img {
     width: 200px;
+}
+
+.center-body {
+    width: 432px;
+    display: flex;
+    flex-direction: row;
+}
+
+.right-body {
+    width: 432px;
+    display: flex;
+    flex-direction: row;
 }
