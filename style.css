@@ -59,12 +59,12 @@ body {
 .left-body {
     display: flex;
     justify-content: space-between;
+    background-color: white;
 }
 
 .left-body .left-group .first-left {
     display: flex;
     flex-direction: column;
-    background-color: white;
 }
 
 .left-body .left-group .first-left div {
