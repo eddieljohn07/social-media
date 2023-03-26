@@ -142,6 +142,13 @@ body {
     display: grid;
 }
 
+.center-body .seconds .seconds-content .user-seconds img{
+    width: 112.5px;
+    height: 200px;
+    object-fit: cover;
+}
+
+
 .right-body {
     width: 432px;
     display: flex;
