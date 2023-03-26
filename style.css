@@ -138,6 +138,10 @@ body {
     flex-direction: row;
 }
 
+.center-body .seconds .seconds-content .user-seconds{
+    display: grid;
+}
+
 .right-body {
     width: 432px;
     display: flex;
