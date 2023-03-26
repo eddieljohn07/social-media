@@ -130,7 +130,7 @@ body {
 
 .center-body .seconds {
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
 }
 
 .right-body {
