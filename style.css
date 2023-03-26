@@ -133,7 +133,7 @@ body {
     flex-direction: column;
 }
 
-.center-body .seconds #seconds-content{
+.center-body .seconds .seconds-content{
     display: flex;
     flex-direction: row;
 }
