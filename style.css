@@ -183,6 +183,10 @@ center-body .seconds .seconds-content .user-friend-two{
     display: grid;
 }
 
+center-body .seconds .seconds-content .user-friend-three{
+    display: grid;
+}
+
 .center-body .seconds .seconds-content .user-friend-three .seconds-img{
     width: 112.5px;
     height: 200px;
