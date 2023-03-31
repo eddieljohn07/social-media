@@ -159,6 +159,12 @@ body {
     object-fit: cover;
 }
 
+.center-body .seconds .seconds-content .user-friend-two .seconds-img{
+    width: 112.5px;
+    height: 200px;
+    object-fit: cover;
+}
+
 .right-body {
     width: 432px;
     display: flex;
