@@ -179,10 +179,6 @@ body {
     border-radius: 50%;
 }
 
-center-body .seconds .seconds-content .user-friend-two{
-    display: grid;
-}
-
 center-body .seconds .seconds-content .user-friend-three{
     display: grid;
 }
