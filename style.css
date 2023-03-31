@@ -159,10 +159,20 @@ body {
     object-fit: cover;
 }
 
+.center-body .seconds .seconds-content .user-friend-one #user-details img{
+    width: 40px;
+    border-radius: 50%;
+}
+
 .center-body .seconds .seconds-content .user-friend-two .seconds-img{
     width: 112.5px;
     height: 200px;
     object-fit: cover;
+}
+
+.center-body .seconds .seconds-content .user-friend-one #user-details{
+    width: 40px;
+    border-radius: 50%;
 }
 
 .right-body {
@@ -170,4 +180,3 @@ body {
     display: flex;
     flex-direction: row;
 }
-
