@@ -203,6 +203,7 @@ body {
 
 .center-body .user-post{
     display: flex;
+    flex-direction: column;
 }
 
 .right-body {
