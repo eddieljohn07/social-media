@@ -218,6 +218,8 @@ body {
 
 .center-body .user-post .post-kind{
     display: flex;
+    justify-content: space-evenly;
+    align-items: ;
 }
 
 .right-body {
