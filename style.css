@@ -206,6 +206,10 @@ body {
     flex-direction: column;
 }
 
+.center-body .user-post .post-section{
+    display: flex;
+}
+
 .right-body {
     width: 432px;
     display: flex;
