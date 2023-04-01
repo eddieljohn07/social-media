@@ -201,6 +201,10 @@ body {
     border-radius: 50%;
 }
 
+.center-body .user-post{
+    display: flex;
+}
+
 .right-body {
     width: 432px;
     display: flex;
