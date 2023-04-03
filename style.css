@@ -258,6 +258,9 @@ body {
     flex-direction: row;
 }
 
+.postfeed-post-one .engagements .engagements-left{
+    display: flex;
+}
 .right-body {
     width: 432px;
     display: flex;
