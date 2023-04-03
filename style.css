@@ -60,6 +60,8 @@ body {
     display: flex;
     flex-direction: row;
     background-color: whitesmoke;
+    align-items: center;
+    justify-content: space-between;
 }
 
 .left-body {
@@ -340,11 +342,11 @@ body {
     flex-direction: column;
 }
 
-.right-body .trending-post #trending-post-upper{
+.right-body .trending .trending-post #trending-post-upper{
     display: flex;
 }
 
-.right-body .trending-post #trending-post-upper .trending-user{
+.right-body .trending .trending-post #trending-post-upper .trending-user{
     width: 40px;
     height: 40px;
     border-radius: 50%;
@@ -355,11 +357,15 @@ body {
     flex-direction: column;
 }
 
-.right-body .trending-post #post-trending-content img{
+.right-body .trending .trending-post #post-trending-content img{
     width: 324px;
 }
 
 .right-body .trending .trending-post .engagements{
     display: flex;
+}
+}
+.right-body .trending .trending-post .engagements img{
+    width: 20px;
 }
 
