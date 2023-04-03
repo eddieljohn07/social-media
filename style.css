@@ -132,6 +132,7 @@ body {
     display: flex;
     flex-direction: column;
     align-items: center;
+    padding-top: 15px;
 }
 
 .center-body .seconds .seconds-content{
@@ -230,6 +231,15 @@ body {
 }
 
 .center-body .user-post .post-kind div{
+    display: flex;
+}
+
+.postfeed-post-one{
+    display: flex;
+    flex-direction: column;
+}
+
+.postfeed-post-one #post-one-upper{
     display: flex;
 }
 
