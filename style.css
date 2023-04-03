@@ -270,6 +270,23 @@ body {
     display: flex;
 }
 
+.postfeed-post-two{
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+    width: 680px;
+}
+
+.postfeed-post-two .post-two-upper{
+    display: flex;
+}
+
+.postfeed-post-two #post-two-upper img{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+}
+
 .right-body {
     width: 432px;
     display: flex;
