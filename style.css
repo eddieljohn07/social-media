@@ -209,6 +209,7 @@ body {
 .center-body .user-post{
     display: flex;
     flex-direction: column;
+    background-color: white;
     width: 680px;
 }
 
@@ -241,6 +242,8 @@ body {
 .postfeed-post-one{
     display: flex;
     flex-direction: column;
+    background-color: white;
+    width: 680px;
 }
 
 .postfeed-post-one #post-one-upper{
