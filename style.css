@@ -132,7 +132,7 @@ body {
     display: flex;
     flex-direction: column;
     align-items: center;
-    padding-top: 15px;
+    padding-top: 15px; 
 }
 
 .center-body .seconds .seconds-content{
@@ -209,7 +209,7 @@ body {
 .center-body .user-post{
     display: flex;
     flex-direction: column;
-    background-color: white;
+    width: 680px;
 }
 
 .center-body .user-post .post-section{
