@@ -277,7 +277,7 @@ body {
     width: 680px;
 }
 
-.postfeed-post-two .post-two-upper{
+.postfeed-post-two #post-two-upper{
     display: flex;
     flex-direction: row;
 }
