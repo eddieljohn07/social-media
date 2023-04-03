@@ -302,6 +302,20 @@ body {
     width: 340px ;
 }
 
+.postfeed-post-two .engagements{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.postfeed-post-two .engagements img{
+    width: 20px;
+}
+
+.postfeed-post-two .engagements .engagements-left{
+    display: flex;
+}
+
 .right-body {
     width: 432px;
     display: flex;
