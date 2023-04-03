@@ -148,6 +148,7 @@ body {
     width: 112.5px;
     height: 200px;
     object-fit: cover;
+    border-radius: 10px;
 }
 
 .center-body .seconds .seconds-content .user-seconds #user-details img{
