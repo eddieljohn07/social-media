@@ -126,6 +126,7 @@ body {
     display: flex;
     flex-direction: column;
     margin-left: 324px;
+    padding-top: 20px;
 }
 
 .center-body .seconds {
@@ -133,6 +134,9 @@ body {
     flex-direction: column;
     align-items: center;
     padding-top: 15px; 
+    background-color: white;
+    overflow: hidden;
+    border-radius: 10px;
 }
 
 .center-body .seconds .seconds-content{
@@ -211,6 +215,9 @@ body {
     flex-direction: column;
     background-color: white;
     width: 680px;
+    padding-top: 15px; 
+    overflow: hidden;
+    border-radius: 10px;
 }
 
 .center-body .user-post .post-section{
@@ -244,6 +251,9 @@ body {
     flex-direction: column;
     background-color: white;
     width: 680px;
+    padding-top: 15px; 
+    overflow: hidden;
+    border-radius: 10px;
 }
 
 .postfeed-post-one #post-one-upper{
@@ -275,6 +285,9 @@ body {
     flex-direction: column;
     background-color: white;
     width: 680px;
+    padding-top: 15px;
+    overflow: hidden;
+    border-radius: 10px;
 }
 
 .postfeed-post-two #post-two-upper{
