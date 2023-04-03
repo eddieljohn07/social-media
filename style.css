@@ -121,10 +121,10 @@ body {
 }
 
 .center-body {
-    width: 432px;
+    width: 680px;
     margin-top: 68px;
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
     margin-left: 324px;
 }
 
