@@ -211,6 +211,10 @@ body {
     display: flex;
 }
 
+.center-body .user-post img{
+    width: 40px;
+}
+
 .center-body .user-post .post-section img{
     width: 40px;
     height: 40px;
