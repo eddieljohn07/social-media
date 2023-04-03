@@ -259,6 +259,10 @@ body {
     justify-content: space-between;
 }
 
+.postfeed-post-one .engagements img{
+    width: 20px;
+}
+
 .postfeed-post-one .engagements .engagements-left{
     display: flex;
 }
