@@ -222,6 +222,10 @@ body {
     justify-content: space-evenly;
 }
 
+.center-body .user-post .post-kind div{
+    display: flex;
+}
+
 .right-body {
     width: 432px;
     display: flex;
