@@ -256,11 +256,13 @@ body {
 .postfeed-post-one .engagements{
     display: flex;
     flex-direction: row;
+    justify-content: space-between;
 }
 
 .postfeed-post-one .engagements .engagements-left{
     display: flex;
 }
+
 .right-body {
     width: 432px;
     display: flex;
