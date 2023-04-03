@@ -279,12 +279,27 @@ body {
 
 .postfeed-post-two .post-two-upper{
     display: flex;
+    flex-direction: row;
 }
 
 .postfeed-post-two #post-two-upper img{
     width: 40px;
     height: 40px;
     border-radius: 50%;
+}
+
+.postfeed-post-two #post-two-content{
+    display: flex;
+    flex-direction: column;
+}
+
+.postfeed-post-two #post-two-content #post-images{
+    display: flex;
+}
+
+.postfeed-post-two #post-two-content #post-images img{
+    display: flex;
+    width: 340px ;
 }
 
 .right-body {
