@@ -210,9 +210,12 @@ body {
 .center-body .user-post .post-section{
     display: flex;
 }
-
+.center-body .user-post .post-header{
+    display: flex;
+}
 .center-body .user-post img{
-    width: 40px;
+    width: 30px;
+    height: 30px;
 }
 
 .center-body .user-post .post-section img{
