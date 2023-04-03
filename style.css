@@ -332,5 +332,34 @@ body {
 .right-body {
     width: 432px;
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
 }
+
+.right-body .trending{
+    display: flex;
+    flex-direction: column;
+}
+
+.right-body .trending-post #trending-post-upper{
+    display: flex;
+}
+
+.right-body .trending-post #trending-post-upper .trending-user{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+}
+
+.right-body .trending .trending-post #post-trending-content{
+    display: flex;
+    flex-direction: column;
+}
+
+.right-body .trending-post #post-trending-content img{
+    width: 324px;
+}
+
+.right-body .trending .trending-post .engagements{
+    display: flex;
+}
+
