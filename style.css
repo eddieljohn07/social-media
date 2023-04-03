@@ -253,6 +253,11 @@ body {
     border-radius: 50%;
 }
 
+.postfeed-post-one .engagements{
+    display: flex;
+    flex-direction: row;
+}
+
 .right-body {
     width: 432px;
     display: flex;
