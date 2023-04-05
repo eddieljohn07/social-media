@@ -24,6 +24,10 @@ body {
     
 }
 
+ul{
+    list-style: none;
+}
+
 .left-header{
     flex: 20% 0 0;
 }
