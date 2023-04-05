@@ -75,6 +75,7 @@ body {
     justify-content: space-between;
     background-color: white;
     margin-top: 10px;
+    width: 20%;
 }
 
 .left-body .left-group .first-left {
@@ -127,8 +128,8 @@ body {
     margin-top: 68px;
     display: flex;
     flex-direction: column;
-    margin-left: 324px;
     padding-top: 20px;
+    width: 60%;
 }
 
 .center-body .seconds {
@@ -332,7 +333,6 @@ body {
 }
 
 .right-body {
-    width: 324px;
     display: flex;
     position: fixed;
     margin-top: 10px;
@@ -341,6 +341,7 @@ body {
     flex-direction: column;
     width: 324px;
     background-color: white;
+    width: 20%;
 }
 
 .right-body .trending{
