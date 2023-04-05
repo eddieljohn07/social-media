@@ -21,6 +21,19 @@ body {
     background-color: white;
     border: 1px solid #ccc;
     box-shadow: 2px 2px 2px #dfdfdf;
+    
+}
+
+.left-header{
+    flex: 20% 0 0;
+}
+
+.right-header{
+    flex: 0 0 20%;
+}
+
+.mid-header{
+    flex: 0 60% 0;
 }
 
 #header .left-header #logo {
@@ -62,6 +75,7 @@ body {
     background-color: whitesmoke;
     align-items: center;
     justify-content: space-between;
+    width: 100%;
 }
 
 .left-body {
@@ -69,12 +83,12 @@ body {
     top: 68px;
     bottom: 0;
     overflow-y: auto;
-    width: 324px;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
     background-color: white;
     margin-top: 10px;
+    flex: 20% 0 0;
     width: 20%;
 }
 
@@ -124,12 +138,13 @@ body {
 }
 
 .center-body {
-    width: 680px;
     margin-top: 68px;
     display: flex;
     flex-direction: column;
     padding-top: 20px;
     width: 60%;
+    flex: 0 60% 0;
+    margin-left: 20%;
 }
 
 .center-body .seconds {
@@ -339,9 +354,9 @@ body {
     top: 68px;
     right: 0;
     flex-direction: column;
-    width: 324px;
     background-color: white;
     width: 20%;
+    flex: 0 0 20%;
 }
 
 .right-body .trending{
