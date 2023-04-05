@@ -405,3 +405,16 @@ body {
     display: flex;
     flex-direction: column;
 }
+
+.group-message #group-users div{
+    display: flex;
+    align-items: center;
+    
+}
+
+.group-message #group-users img{
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    margin-right: 10px;
+}
