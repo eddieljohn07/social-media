@@ -246,10 +246,16 @@ ul{
 .center-body .user-post .post-section{
     display: flex;
 }
+
+.post-section img{
+    padding-right: 10px;
+}
+
 .center-body .user-post .post-header{
     display: flex;
     align-items: center;
 }
+
 .center-body .user-post img{
     width: 30px;
     height: 30px;
