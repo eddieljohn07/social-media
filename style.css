@@ -375,3 +375,8 @@ body {
 .right-body .trending .trending-post .engagements img{
     width: 20px;
 }
+
+.right-body .personal-message{
+    display: flex;
+    flex-direction: column;
+}
