@@ -352,7 +352,7 @@ ul{
 .postfeed-post-two .engagements{
     display: flex;
     flex-direction: row;
-    justify-content: space-between;
+    justify-content: space-between;                
 }
 
 .postfeed-post-two .engagements img{
@@ -396,7 +396,7 @@ ul{
 }
 
 .right-body .trending .trending-post #post-trending-content img{
-    width: 324px;
+    width: 400px;
 }
 
 .right-body .trending .trending-post .engagements{
