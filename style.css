@@ -385,3 +385,8 @@ body {
     width: 40px;
     border-radius: 50%;
 }
+
+.right-body .personal-message #contact-users {
+    display: flex;
+    flex-direction: column;
+}
