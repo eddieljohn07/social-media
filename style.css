@@ -161,7 +161,6 @@ ul{
     border-radius: 10px;
 }
 
-
 .center-body .seconds .seconds-content{
     display: flex;
     flex-direction: row;
@@ -241,6 +240,7 @@ ul{
     padding-top: 15px; 
     overflow: hidden;
     border-radius: 10px;
+
 }
 
 .center-body .user-post .post-section{
@@ -248,6 +248,7 @@ ul{
 }
 .center-body .user-post .post-header{
     display: flex;
+    align-items: center;
 }
 .center-body .user-post img{
     width: 30px;
