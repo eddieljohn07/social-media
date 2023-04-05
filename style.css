@@ -400,3 +400,8 @@ body {
 .right-body .personal-message #contact-users img{
     margin-right: 10px;
 }
+
+.group-message {
+    display: flex;
+    flex-direction: column;
+}
