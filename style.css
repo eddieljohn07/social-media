@@ -334,7 +334,13 @@ body {
 .right-body {
     width: 324px;
     display: flex;
+    position: fixed;
+    margin-top: 10px;
+    top: 68px;
+    right: 0;
     flex-direction: column;
+    width: 324px;
+    background-color: white;
 }
 
 .right-body .trending{
