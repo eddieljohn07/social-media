@@ -166,14 +166,15 @@ ul{
 }
 
 .center-body .seconds .seconds-content{
-    width: 680px;
+    width: 500px;
     display: flex;
     flex-direction: row;
-    justify-content: space-between;
+    justify-content: space-evenly;
 }
 
 .center-body .seconds .seconds-content .user-seconds{
     display: grid;
+    width: 112.5px;
 }
 
 .center-body .seconds .seconds-content .user-seconds img{
