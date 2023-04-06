@@ -351,8 +351,7 @@ ul{
 
 .postfeed-post-two .engagements{
     display: flex;
-    flex-direction: row;
-    justify-content: space-between;                
+    justify-content: space-between;               
 }
 
 .postfeed-post-two .engagements img{
