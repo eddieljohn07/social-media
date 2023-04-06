@@ -34,6 +34,7 @@ ul{
 
 .right-header{
     flex: 0 0 20%;
+    justify-content: end;
 }
 
 .mid-header{
