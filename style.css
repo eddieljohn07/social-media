@@ -151,8 +151,9 @@ ul{
     flex-direction: column;
     padding-top: 20px;
     width: 60%;
-    flex: 0 60% 0;
     margin-left: 20%;
+    justify-content: center;
+    align-items: center;
 }
 
 .center-body .seconds {
@@ -161,14 +162,14 @@ ul{
     align-items: center;
     padding-top: 15px; 
     background-color: white;
-    overflow: hidden;
-    border-radius: 10px;
     width: 680px;
 }
 
 .center-body .seconds .seconds-content{
+    width: 680px;
     display: flex;
     flex-direction: row;
+    justify-content: space-between;
 }
 
 .center-body .seconds .seconds-content .user-seconds{
