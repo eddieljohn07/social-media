@@ -19,7 +19,7 @@ body {
     justify-content: space-between;
     padding-top: 15px;
     background-color: white;
-    border: 1px solid #ccc;
+    border: 1px solid #e7e7e7;
     box-shadow: 2px 2px 2px #dfdfdf;
 }
 
@@ -107,7 +107,7 @@ h1{
 .left-body .left-group .first-left {
     display: flex;
     flex-direction: column;
-    border: 1px solid #ccc;
+    border: 1px solid #e7e7e7;
     box-shadow: 2px 2px 2px #dfdfdf;
     background-color: white;
     border-radius: 10px;
@@ -122,7 +122,7 @@ h1{
     display: flex;
     flex-direction: column;
     margin-top: 10px;
-    border: 1px solid #ccc;
+    border: 1px solid #e7e7e7;
     box-shadow: 20px 2px 2px #dfdfdf;
     background-color: white;
     border-radius: 10px;
@@ -138,7 +138,7 @@ h1{
     flex-direction: column;
     align-items: start;
     margin-top: 10px;
-    border: 1px solid #ccc;
+    border: 1px solid #e7e7e7;
     box-shadow: 2px 2px 2px #dfdfdf;
     border-bottom: none;
     background-color: white;
@@ -177,7 +177,7 @@ h1{
     overflow: hidden;
     border-radius: 10px;
     padding: 0 20px 0 20px;
-    border: 1px solid #ccc;
+    border: 1px solid #e7e7e7;
     box-shadow: 2px 2px 2px #dfdfdf;
 }
 
@@ -265,7 +265,7 @@ h1{
     border-radius: 10px;
     padding: 0 20px 0 20px;
     margin: 20px 0 20px 0;
-    border: 1px solid #ccc;
+    border: 1px solid #e7e7e7;
     box-shadow: 2px 2px 2px #dfdfdf;
 }
 
@@ -312,7 +312,7 @@ h1{
     border-radius: 10px;
     padding: 0 20px 0 20px;
     margin: 20px 0 20px 0;
-    border: 1px solid #ccc;
+    border: 1px solid #e7e7e7;
     box-shadow: 2px 2px 2px #dfdfdf;
 }
 
@@ -352,7 +352,7 @@ h1{
     border-radius: 10px;
     padding: 0 20px 0 20px;
     margin: 20px 0 20px 0;
-    border: 1px solid #ccc;
+    border: 1px solid #e7e7e7;
     box-shadow: 2px 2px 2px #dfdfdf;
 }
 
