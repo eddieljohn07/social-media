@@ -194,6 +194,13 @@ h1{
     flex-direction: column;
 }
 
+.center-body .seconds .seconds-content #user-details{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 5px;
+}
+
 .center-body .seconds .seconds-content .user-seconds img{
     width: 112.5px;
     height: 200px;
@@ -318,7 +325,7 @@ h1{
     padding-top: 15px; 
     overflow: hidden;
     border-radius: 10px;
-    padding: 0 20px 0 20px;
+    padding: 20px;
     margin: 20px 0 20px 0;
     border: 1px solid #e7e7e7;
     box-shadow: 2px 2px 2px #dfdfdf;
@@ -326,7 +333,11 @@ h1{
 
 .postfeed-post-one #post-one-upper{
     display: flex;
-    align-items: center;
+    align-items: center
+}
+
+.postfeed-post-one #post-one-upper #post-one-details p{
+    margin: 0;
 }
 
 .postfeed-post-one #post-one-upper img{
@@ -358,12 +369,14 @@ h1{
     padding-top: 15px;
     overflow: hidden;
     border-radius: 10px;
-    padding: 0 20px 0 20px;
+    padding: 20px;
     margin: 20px 0 20px 0;
     border: 1px solid #e7e7e7;
     box-shadow: 2px 2px 2px #dfdfdf;
 }
-
+.postfeed-post-two #post-two-upper #post-two-details p{
+    margin: 0;
+}
 .postfeed-post-two #post-two-upper{
     display: flex;
     flex-direction: row;
@@ -380,6 +393,7 @@ h1{
 .postfeed-post-two #post-two-content{
     display: flex;
     flex-direction: column;
+    padding-bottom: 15px;
 }
 
 .postfeed-post-two #post-two-content #post-images{
@@ -488,7 +502,6 @@ h1{
 .group-message #group-users div{
     display: flex;
     align-items: center;
-    
 }
 
 .group-message #group-users img{
