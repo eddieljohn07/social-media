@@ -177,6 +177,8 @@ h1{
     overflow: hidden;
     border-radius: 10px;
     padding: 0 20px 0 20px;
+    border: 1px solid #ccc;
+    box-shadow: 2px 2px 2px #dfdfdf;
 }
 
 .center-body .seconds .seconds-content{
@@ -263,6 +265,8 @@ h1{
     border-radius: 10px;
     padding: 0 20px 0 20px;
     margin: 20px 0 20px 0;
+    border: 1px solid #ccc;
+    box-shadow: 2px 2px 2px #dfdfdf;
 }
 
 .center-body .user-post .post-section{
@@ -308,6 +312,8 @@ h1{
     border-radius: 10px;
     padding: 0 20px 0 20px;
     margin: 20px 0 20px 0;
+    border: 1px solid #ccc;
+    box-shadow: 2px 2px 2px #dfdfdf;
 }
 
 .postfeed-post-one #post-one-upper{
@@ -346,6 +352,8 @@ h1{
     border-radius: 10px;
     padding: 0 20px 0 20px;
     margin: 20px 0 20px 0;
+    border: 1px solid #ccc;
+    box-shadow: 2px 2px 2px #dfdfdf;
 }
 
 .postfeed-post-two #post-two-upper{
