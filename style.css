@@ -250,6 +250,7 @@ h1{
     overflow: hidden;
     border-radius: 10px;
     padding: 0 20px 0 20px;
+    margin: 20px 0 20px 0;
 }
 
 .center-body .user-post .post-section{
@@ -294,6 +295,7 @@ h1{
     overflow: hidden;
     border-radius: 10px;
     padding: 0 20px 0 20px;
+    margin: 20px 0 20px 0;
 }
 
 .postfeed-post-one #post-one-upper{
@@ -331,6 +333,7 @@ h1{
     overflow: hidden;
     border-radius: 10px;
     padding: 0 20px 0 20px;
+    margin: 20px 0 20px 0;
 }
 
 .postfeed-post-two #post-two-upper{
