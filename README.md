@@ -5,6 +5,7 @@
 -So far this is only catered for desktop web, and not in mobile
 -This is only a static social-media and posting, uploading, streaming, etc is not possible at the moment.
 -Content posted or at the website is placed accordingly and not from other users.
+-Buttons as of the moment is non-clickable.
 
 Images used:
 Capybara Photo by Rutpratheep Nilpechr: https://www.pexels.com/photo/close-up-of-a-capybara-6596764/
