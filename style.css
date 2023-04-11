@@ -433,6 +433,11 @@ h1{
 .right-body .trending{
     display: flex;
     flex-direction: column;
+    border: 1px solid #e7e7e7;
+    box-shadow: 2px 2px 2px #dfdfdf;
+    border: 1px solid #e7e7e7;
+    padding: 10px;
+    border-radius: 10px;
 }
 
 .right-body .trending .trending-post #trending-post-upper{
@@ -451,7 +456,8 @@ h1{
 }
 
 .right-body .trending .trending-post #post-trending-content img{
-    width: 400px;
+    width: 300px;
+    padding-left: 7%;
 }
 
 .right-body .trending .trending-post .engagements{
