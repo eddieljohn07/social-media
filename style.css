@@ -64,6 +64,9 @@ h1{
 
 #header .left-header #search-bar #search {
     border: none;
+    background-color: whitesmoke;
+    border-radius: 25x;
+    height: 40px;
 }
 
 .mid-header {
