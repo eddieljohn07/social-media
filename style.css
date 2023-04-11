@@ -442,6 +442,8 @@ h1{
 
 .right-body .trending .trending-post #trending-post-upper{
     display: flex;
+    flex-direction: row;
+    align-items: center;
 }
 
 .right-body .trending .trending-post #trending-post-upper .trending-user{
@@ -453,11 +455,11 @@ h1{
 .right-body .trending .trending-post #post-trending-content{
     display: flex;
     flex-direction: column;
+    padding-left: 7%;
 }
 
 .right-body .trending .trending-post #post-trending-content img{
     width: 300px;
-    padding-left: 7%;
 }
 
 .right-body .trending .trending-post .engagements{
