@@ -480,6 +480,12 @@ h1{
 .right-body .personal-message{
     display: flex;
     flex-direction: column;
+    border: 1px solid #e7e7e7;
+    box-shadow: 2px 2px 2px #dfdfdf;
+    border: 1px solid #e7e7e7;
+    padding: 10px;
+    border-radius: 10px;
+    overflow: hidden;
 }
 
 .right-body .personal-message img{
@@ -505,6 +511,12 @@ h1{
 .group-message {
     display: flex;
     flex-direction: column;
+    border: 1px solid #e7e7e7;
+    box-shadow: 2px 2px 2px #dfdfdf;
+    border: 1px solid #e7e7e7;
+    padding: 10px;
+    border-radius: 10px;
+    overflow: hidden;
 }
 
 .group-message #group-users div{
