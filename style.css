@@ -319,6 +319,7 @@ h1{
 .center-body .user-post .post-kind{
     display: flex;
     justify-content: space-evenly;
+    padding-top: 10px;
 }
 
 .center-body .user-post .post-kind div{
